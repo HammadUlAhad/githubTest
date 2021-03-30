@@ -34,3 +34,5 @@ class ClientClassConfig extends ClassConfig {
 }
 
 # Added a comment in the end of the file
+
+#Going to add the second comment in the end of the file
