@@ -33,3 +33,4 @@ class ClientClassConfig extends ClassConfig {
     );
 }
 
+# Added a comment in the end of the file
